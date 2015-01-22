@@ -56,7 +56,7 @@
 </li>
 <li><a href="#">Funcionário</a>
 <ul>
-<li><a href="LoginDeFuncionario.jsp">Login</a></li>
+<li><a href="LogiDeFuncionario.jsp">Login</a></li>
 </ul>
 </li>
 <li><a href="#">Técnico administrativo</a>
@@ -73,35 +73,24 @@
 <br>
 <br>
 <b> PROFESSOR</br><br />
-    <a href="LoginDeProfessor.jsp">
- <img src = "professor.jpg"  width="90" height="100">
- </a>
+ <a href="LoginDeProfessor.jsp"><img alt="" src="professor.jpg" width="90" height="100" /></a>
 <br>
 <br>
  ALUNO<br />
-  <a href="LoginDeAluno.jsp">
- <img src = "aluno.png"  width="90" height="100">
-  </a>
+<a href="LoginDeAluno.jsp"><img alt="" src="aluno.png" width="90" height="100" /></a> 
 <br>
 <br>
 FUNCIONARIO</br>
- <a href="LoginDeFuncionario.jsp">
- <img src = "func.png"  width="90" height="100">
- </a>
-
+<a href="LogiDeFuncionario.jsp"><img alt="" src="func.png" width="90" height="100" /></a>
 <br>
 <br>
 TÉCNICO<br />
 ADMINISTRATIVO<br />
-<a href="LoginDoTec.jsp">
- <img src = "Tec.jpg"  width="90" height="100">
-</a>
+ <a href="LoginDoTec.jsp"><img alt="" src="Tec.jpg" width="90" height="100" /></a>
 <br>
 <br>
 SOLICITAÇÕES<br />
-<a href="LoginDeSolicitacao.jsp">
- <img src = "S.jpeg"  width="90" height="100">
-</a>
+<a href="LoginDeSolicitacao.jsp"><img alt="" src="S.jpeg" width="90" height="100" /></a>
 
      
             
