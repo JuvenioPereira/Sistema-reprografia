@@ -74,6 +74,11 @@ public final class PaginaF_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("<br>\n");
       out.write("<br>\n");
       out.write("<br>\n");
+      out.write("<form>\n");
+      out.write("<b>Remetente:</b><input type=\"text\" name=\"txtNome\" size=\"45\" value=\"\">\n");
+      out.write("<br>\n");
+      out.write("<b>Destinatário:</b><input type=\"password\" name=\"txtSenha\"  size=\"25\"><br />\n");
+      out.write("</form>\n");
       out.write("<b>Caixa de entrada: </b><br /> <textarea name=\"txtArea\" rows=\"15\" cols=\"60\"> </textarea><br /> <input type=\"submit\" value=\"Limpar\"> \n");
       out.write("<br>\n");
       out.write("<br>\n");
@@ -90,6 +95,9 @@ public final class PaginaF_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("<textarea name=\"txtArea\" rows=\"2\" cols=\"4\"> </textarea><br /> <input type=\"submit\" value=\"Limpar\"> \n");
       out.write(" \n");
       out.write(" </form>\n");
+      out.write("<br>\n");
+      out.write("<br>\n");
+      out.write("\n");
       out.write(" Clique <a href=\"PrincipalTela.jsp\">aqui</a> para sair <br />\n");
       out.write("\n");
       out.write("    </body>\n");

@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body bgcolor="#C0C0C0">
+         <a href="PrincipalTela.jsp">Voltar a pagina principal</a><br />
 <h2><o>Os campos abaixo devem ser preenchidos:</o></h2><br />
 <img src ="aluno.png" align="leaft" width="60" height="80">
 <br>

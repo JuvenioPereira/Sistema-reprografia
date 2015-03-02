@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <a href="PrincipalTela.jsp">Voltar a pagina principal</a>
         <h1>Opa ocorreu um error!</h1>
     </body>
 </html>

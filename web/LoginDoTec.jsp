@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body bgcolor="#C0C0C0">
+        <a href="PrincipalTela.jsp">Voltar a pagina principal</a>
 <img src="Tec.jpg" width="60" heigth="80">
 <br>
 <br>

@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
    <body bgcolor="#C0C0C0">
+       <a href="PrincipalTela.jsp">Voltar a pagina principal</a>
 <center>
 <h3>Seja bem vindo</h3>
 </center>

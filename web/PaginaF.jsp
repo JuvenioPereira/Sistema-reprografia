@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body bgcolor="#C0C0C0">
+        <a href="PrincipalTela.jsp">Voltar a pagina principal</a>
 <center>
 <h3>Seja bem vindo</h3>
 </center>
@@ -35,10 +36,17 @@
 <br>
 <br>
 <br>
+
 <b>Caixa de entrada: </b><br /> <textarea name="txtArea" rows="15" cols="60"> </textarea><br /> <input type="submit" value="Limpar"> 
 <br>
 <br>
-<b>Campo de mensagem: </b><br /> <textarea name="txtArea" rows="15" cols="60"> </textarea><br /> <input type="submit" value="Enviar"> <input type="submit" value="Cancelar">
+<form>
+  <b> Enviar mensagem:</b><br />
+<b>Remetente:</b><input type="text" name="txtNome" size="45" value="">
+<br>
+<b>Destinatário:</b><input type="password" name="txtSenha"  size="25"><br />
+</form>
+<b></b><br /> <textarea name="txtArea" rows="15" cols="60"> </textarea><br /> <input type="submit" value="Enviar"> <input type="submit" value="Cancelar">
 <br>
 <br>
 

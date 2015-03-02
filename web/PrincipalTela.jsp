@@ -19,22 +19,10 @@
 </ul>
 </li>
 <ul>
-<li><a href="#">Solicitações</a>
+<li><a href="#">Administrador</a>
 <ul>
-<li><a href="LoginDeSolicitacao.jsp"></a>Login</li>
+<li><a href="LoginDoAdministrador.jsp"></a>Login</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <li><a href="#">Remover</a>
 <ul>
@@ -98,8 +86,8 @@ ADMINISTRATIVO<br />
 </a>
 <br>
 <br>
-SOLICITAÇÕES<br />
-<a href="LoginDeSolicitacao.jsp">
+Administrador<br />
+<a href="LoginDoAdministrador.jsp">
  <img src = "S.jpeg"  width="90" height="100">
 </a>
 

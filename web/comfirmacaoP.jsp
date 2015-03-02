@@ -11,6 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
+     <a href="PrincipalTela.jsp">Voltar a pagina principal</a><br />
     <body>
         <h1> Parabéns você foi cadastrado com sucesso! </h1>
     </body>
